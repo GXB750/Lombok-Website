@@ -1,0 +1,43 @@
+  body{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #4d4f4a;
+  }
+  .section1{
+    background-image: url(12111-1-1687077643.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 580px;
+    position: relative;
+  }
+  .header-list{
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+  }
+  .header-list ul{
+    list-style: none;
+  }
+  .list{
+    display: inline-block;
+    padding: 5px 15px;
+    margin: 18px 7px;
+  }
+  .logo-header{
+    display: inline-block;
+    margin: 30px;
+    position: absolute;
+    left: 35px;
+  }
+  .titles-section{
+    display: inline-block;
+    top: 50%;
+    position: absolute;
+    left: 38%;
+  }
+.bar-title-two{
+    padding: 5px;
+    border-bottom: 5px solid #4d4f4a;
+    display: inline-block;
+    width: 43px;
+}
